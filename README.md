@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="assets/lumen-screen.png" width="180" alt="Ícone do Lumen Screen">
+</p>
+
 # Lumen Screen
+
+Captura de tela, anotações e gravação de vídeo para macOS
 
 O **Lumen Screen** é um aplicativo independente para macOS, desenvolvido pela **Valente Soluções**, para capturar telas, fazer anotações e gravar vídeos. A versão **0.1.0-beta.1** é experimental e gratuita.
 
@@ -19,7 +25,7 @@ O **Lumen Screen** é um aplicativo independente para macOS, desenvolvido pela *
 
 ## Baixar e instalar
 
-Quando a Beta estiver publicada, baixe `LumenScreen-0.1.0-beta.1-macOS-Intel.dmg` na página [Releases do Lumen Screen](https://github.com/valentesolucoes/lumenscreen-releases/releases) e siga o [guia de instalação](docs/INSTALACAO.md).
+Baixe a versão **v0.1.0-beta.1** em `LumenScreen-0.1.0-beta.1-macOS-Intel.dmg` na página [Releases do Lumen Screen](https://github.com/valentesolucoes/lumenscreen-releases/releases) e siga o [guia de instalação](docs/INSTALACAO.md).
 
 O aplicativo não foi notarizado pela Apple. Na primeira abertura, o macOS poderá mostrar um aviso de segurança. O guia explica como proceder usando os controles de **Ajustes do Sistema**, sem desativar as proteções do macOS.
 
