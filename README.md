@@ -23,6 +23,13 @@ O **Lumen Screen** é um aplicativo nativo desenvolvido pela **Valente Soluçõe
 - Adesivo para manter capturas fixadas sobre outras janelas.
 - Atalhos configuráveis e acesso pela barra de menus.
 
+## Versões disponíveis
+
+Consulte a **[lista completa de Releases do Lumen Screen](https://github.com/valentesolucoes/lumenscreen-releases/releases)** para acessar os instaladores e arquivos de verificação de cada versão.
+
+- **[Lumen Screen 0.1.24 Alpha](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v0.1.24-alpha)**: versão mais recente, Universal para Intel e Apple Silicon.
+- **[Lumen Screen 0.1.0 Beta 1](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v0.1.0-beta.1)**: versão histórica para Intel.
+
 ## Baixar e instalar
 
 Acesse a [versão 0.1.24 Alpha](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v0.1.24-alpha), baixe `Lumen-Screen-0.1.24-Alpha-Universal.dmg`, abra a imagem e arraste **Lumen Screen.app** para **Aplicativos**. Consulte o [guia de instalação da Alpha](docs/INSTALACAO-0.1.24-ALPHA.md).
