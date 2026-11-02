@@ -3,12 +3,12 @@
 ## Requisitos
 
 - macOS 15 ou posterior.
-- Mac Intel (x86_64) ou Apple Silicon (arm64). O aplicativo é Universal; esta versão ainda não foi testada funcionalmente em Apple Silicon.
+- Mac Intel (x86_64) ou Apple Silicon (arm64). O aplicativo é Universal; a execução funcional desta versão em Apple Silicon ainda não foi confirmada.
 - Permissão de gravação de tela do macOS para captura e gravação.
 
 ## Baixar e instalar
 
-1. Baixe `Lumen-Screen-0.1.25-Alpha-Universal.dmg` e o arquivo `.dmg.sha256` da publicação oficial do Lumen Screen, quando disponível.
+1. Baixe `Lumen-Screen-0.1.25-Alpha-Universal.dmg` e o arquivo `.dmg.sha256` da [publicação oficial do Lumen Screen](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v0.1.25-alpha).
 2. Confira o SHA-256 como indicado abaixo e abra o DMG no Finder.
 3. Arraste **Lumen Screen.app** para o atalho **Applications** (Aplicativos).
 4. Ejete a imagem e abra o aplicativo pela pasta **Aplicativos**.
