@@ -10,21 +10,19 @@
 
 Captura de tela, anotações e gravação de vídeo para macOS.
 
-O Lumen Screen é um aplicativo nativo para macOS, desenvolvido pela **Valente Soluções**. A versão mais recente é **0.1.25 Alpha**, distribuída gratuitamente para avaliação.
+O Lumen Screen é um aplicativo nativo para macOS, desenvolvido pela **Valente Soluções**. A versão final mais recente é **1.0.0**, gratuita para uso.
 
-## Versões disponíveis
+## Baixar
 
-Consulte a **[lista completa de Releases do Lumen Screen](https://github.com/valentesolucoes/lumenscreen-releases/releases)** para acessar os instaladores e arquivos de verificação de cada versão.
+Acesse a [Release 1.0.0](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v1.0.0) e baixe `Lumen-Screen-1.0.0-Universal.dmg` e `Lumen-Screen-1.0.0-Universal.dmg.sha256`. Confira o checksum antes de abrir o pacote. Consulte o [guia de instalação](docs/INSTALACAO-1.0.0.md).
 
-- **[Lumen Screen 0.1.25 Alpha](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v0.1.25-alpha)**: versão mais recente, Universal para Intel e Apple Silicon.
-- **[Lumen Screen 0.1.24 Alpha](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v0.1.24-alpha)**: versão anterior Universal.
-- **[Lumen Screen 0.1.0 Beta 1](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v0.1.0-beta.1)**: versão histórica para Intel.
+SHA-256 do DMG: `d24a1b4e0d9c7f6044709a95b0f46823f6d822725419adcbebede0e477d9c7c3`.
 
-## Funcionalidades
+## Recursos
 
-- Captura de tela inteira ou de áreas selecionadas, com pré-seleção de janelas.
+- Captura de tela inteira e de regiões, com pré-seleção de janelas e som de obturador.
 - Capturador de Cores.
-- Gravação de vídeo da tela ou de regiões selecionadas e gravação de GIF de região.
+- Gravação de vídeo da tela ou de regiões e gravação de GIF por região.
 - Anotações com formas, setas, caneta, destaque e texto editável.
 - Adesivo para manter capturas fixadas sobre outras janelas.
 - Atalhos configuráveis e acesso pela barra de menus.
@@ -32,21 +30,15 @@ Consulte a **[lista completa de Releases do Lumen Screen](https://github.com/val
 ## Requisitos
 
 - macOS 15 ou superior.
-- Mac Intel (x86_64) ou Apple Silicon (arm64). O pacote 0.1.25 Alpha é Universal; o teste funcional em Apple Silicon ainda não foi confirmado.
-- Permissões do macOS para gravação de tela, conforme os recursos utilizados.
+- Mac Intel (x86_64) ou Apple Silicon (arm64); o DMG é Universal.
+- Permissão de gravação de tela do macOS para os recursos de captura e gravação.
 
-## Baixar e instalar
+## Segurança do macOS
 
-Acesse a [versão 0.1.25 Alpha](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v0.1.25-alpha), baixe `Lumen-Screen-0.1.25-Alpha-Universal.dmg` e o arquivo `.sha256`, confira o checksum, abra a imagem e arraste **Lumen Screen.app** para **Aplicativos**. Para atualização e permissões, consulte o [guia de instalação da Alpha](docs/INSTALACAO-0.1.25-ALPHA.md).
+Esta versão está assinada com **Apple Development** e **não foi notarizada pela Apple**. A assinatura não representa aprovação da Apple. O macOS pode exibir um aviso ou impedir a primeira abertura. Leia o [guia de instalação e segurança](docs/INSTALACAO-1.0.0.md) e use somente os controles por aplicativo do próprio macOS. Não desative globalmente o Gatekeeper nem remova a quarentena por comando. Se o sistema indicar que o aplicativo está danificado, contém malware ou teve a assinatura revogada, não prossiga e informe os mantenedores.
 
-Esta versão tem assinatura Apple Development e ainda não foi notarizada pela Apple. O macOS pode exibir um aviso na primeira abertura. Use os controles de segurança oficiais do macOS conforme o guia; não desative globalmente o Gatekeeper nem remova verificações de segurança por comandos.
+## Notas da versão
 
-## Sobre a versão Alpha
+Consulte as [notas da versão 1.0.0](docs/NOTAS-1.0.0.md) e o [histórico de versões](RELEASE-NOTES.md). Versões anteriores permanecem disponíveis na [lista de Releases](https://github.com/valentesolucoes/lumenscreen-releases/releases).
 
-Esta é uma versão experimental para avaliação, não uma distribuição final de produção. A versão 0.1.25 passou em 297 testes automatizados e 13 testes funcionais manuais em Mac Intel. O DMG também foi transferido e testado com sucesso em um MacBook; a arquitetura desse computador ainda não foi confirmada. Como em qualquer versão Alpha, podem existir falhas ou limitações.
-
-A [Beta 1 (v0.1.0-beta.1)](https://github.com/valentesolucoes/lumenscreen-releases/releases/tag/v0.1.0-beta.1) permanece disponível como publicação histórica. Consulte também as [notas históricas da Beta 1](RELEASE-NOTES.md) e o [guia de instalação da Beta 1](docs/INSTALACAO.md).
-
-**Desenvolvido por Valente Soluções**
-
-[www.valentesolucoes.com.br](https://www.valentesolucoes.com.br)
+**Desenvolvido por Valente Soluções** · [www.valentesolucoes.com.br](https://www.valentesolucoes.com.br)

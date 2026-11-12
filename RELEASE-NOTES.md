@@ -1,4 +1,10 @@
-# Lumen Screen v0.1.0-beta.1
+# Histórico de versões do Lumen Screen
+
+- **[1.0.0 — versão final](docs/NOTAS-1.0.0.md)**
+- [0.1.25 Alpha](docs/NOTAS-0.1.25-ALPHA.md)
+- [0.1.24 Alpha](docs/NOTAS-0.1.24-ALPHA.md)
+
+## Lumen Screen v0.1.0-beta.1
 
 Primeira versão Beta pública do Lumen Screen, desenvolvida pela **Valente Soluções** e distribuída gratuitamente para avaliação.
 
